@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3564c16bebe24446af5c9ddef67765fc, type: 3}
+  m_Name: 1_SpriteCollection
+  m_EditorClassIdentifier: 
+  rectangle: {fileID: 7014286043975846214, guid: 4a67ea254adfcda4c862b1ec057558bb,
+    type: 3}
+  background: {fileID: -1955448553306655712, guid: 4a67ea254adfcda4c862b1ec057558bb,
+    type: 3}
+  backgroundLeft: {fileID: -3958678274390686719, guid: 4a67ea254adfcda4c862b1ec057558bb,
+    type: 3}
+  backgroundRight: {fileID: -2146368423942107817, guid: 4a67ea254adfcda4c862b1ec057558bb,
+    type: 3}
+  backgroundBottom: {fileID: -4817409605821441833, guid: 4a67ea254adfcda4c862b1ec057558bb,
+    type: 3}
+  backgroundTop: {fileID: -9078219959484023005, guid: 4a67ea254adfcda4c862b1ec057558bb,
+    type: 3}
+  backgroundUnderline: {fileID: 21300000, guid: dd3957e39742c4a33a9c7e04b8e6ca9c,
+    type: 3}
+  spinnerIcon: {fileID: 21300000, guid: bab0dfd3ec6561846b964838d235bbcb, type: 3}
+  crossIcon: {fileID: 21300000, guid: 12b3fa0cb1ae24f97b973af34bdedbe6, type: 3}
+  frame: {fileID: 21300000, guid: 549fd4d92bbaf49f0b99d12a340296aa, type: 3}
+  transparentPixel: {fileID: 21300000, guid: f5eb2b1a1a48a034989b6a9ec5b266f8, type: 3}

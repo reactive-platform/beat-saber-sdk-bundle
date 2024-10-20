@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 108282d512b24274686cf1468a347f19, type: 3}
+  m_Name: BeatSaberSDK_Resources
+  m_EditorClassIdentifier: 
+  sprites: {fileID: 11400000, guid: 76d982eb92ff1a1478d2bfa1f7610516, type: 2}
+  materials: {fileID: 11400000, guid: 9121157595f94ed4eb0d3c02e3ba2c7a, type: 2}
